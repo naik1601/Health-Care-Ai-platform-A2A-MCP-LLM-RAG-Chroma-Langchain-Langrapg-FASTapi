@@ -1,0 +1,123 @@
+[
+  {
+    "id": "demo-plan-001-pdf-v1-page-1-chunk-1",
+    "text": "HEALTHCARE AI PLATFORM / TEST DOCUMENT Demo Healthcare Benefits Plan A fictional plan for document ingestion, semantic search, and cited answers. Plan identity Plan ID: DEMO-PLAN-001 Document version: 1.0 Effective period: January 1, 2026 to December 31, 2026 Currency: USD Synthetic data notice All coverage rules, amounts, limits, and administrative procedures in this document are invented for software testing. This is not an insurance policy, evidence of coverage, or medical advice. No real insurer or member is represented. Contents",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 1,
+      "document_version": "1.0",
+      "section": "PDF page 1"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-2-chunk-1",
+    "text": "Eligibility, network, and general rules Eligibility and plan period This demo plan applies only to an active synthetic member enrolled in DEMO-PLAN-001 on the service date. A service outside the effective period cannot be evaluated using this version. Coverage cannot be established from the document alone without checking enrollment and the service date. In-network providers The benefits stated in this document apply to in-network providers unless a section explicitly says otherwise. A provider must be verified in the applicable network directory for the service date. This PDF does not contain a provider directory or live network status. Out-of-network services Routine, non-emergency out-of-network services are excluded. Emergency care has separate handling: the member must contact the demo administrator after stabilization for review. This document does not define emergency cost sharing; do not infer it from routine visit rules. Annual limits and remaining benefits An annual limit means the maximum for one calendar year. Visit counts reset on January 1 and unused visits do not carry over. This document states plan limits, not a member's used or remaining visits. Remaining benefits require",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 2,
+      "document_version": "1.0",
+      "section": "PDF page 2"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-2-chunk-2",
+    "text": "remaining benefits An annual limit means the maximum for one calendar year. Visit counts reset on January 1 and unused visits do not carry over. This document states plan limits, not a member's used or remaining visits. Remaining benefits require an eligibility or utilization record. Terminology Prior authorization means approval obtained before a service. A referral means a clinician recommends another service or provider. A referral does not replace required prior authorization. A covered service may still be subject to cost sharing, eligibility, exclusions, and available limits.",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 2,
+      "document_version": "1.0",
+      "section": "PDF page 2"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-3-chunk-1",
+    "text": "Physiotherapy and rehabilitation Outpatient physiotherapy coverage Under DEMO-PLAN-001, medically necessary outpatient physiotherapy is covered for up to 20 visits per calendar year at in-network providers. Physical therapy and physiotherapy refer to the same benefit in this demo plan. Prior authorization requirement Prior authorization is required before the first outpatient physiotherapy visit, including the initial evaluation. There is no exception to this requirement for a referral. A physician referral alone is not sufficient authorization. Cost sharing An authorized in-network outpatient physiotherapy visit has a USD 25 member copayment per visit. No deductible applies to this specific benefit. The 20-visit limit includes the initial evaluation. This document does not establish the billed amount or payment for a particular claim. Visits beyond the annual limit Visits beyond 20 are excluded under this demo plan. Prior authorization does not increase the annual visit limit. A member's remaining visit count must be obtained from utilization records, not calculated from this PDF. Excluded rehabilitation services Fitness memberships, personal training, sports performance coaching, and rehabilitation equipment purchased for home use are excluded. Occupational therapy and speech therapy",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 3,
+      "document_version": "1.0",
+      "section": "PDF page 3"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-3-chunk-2",
+    "text": "A member's remaining visit count must be obtained from utilization records, not calculated from this PDF. Excluded rehabilitation services Fitness memberships, personal training, sports performance coaching, and rehabilitation equipment purchased for home use are excluded. Occupational therapy and speech therapy are not described by this physiotherapy benefit; their coverage cannot be inferred from it.",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 3,
+      "document_version": "1.0",
+      "section": "PDF page 3"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-4-chunk-1",
+    "text": "Preventive care, office visits, and diagnostics Annual preventive checkup One routine preventive health checkup per calendar year is covered at an in-network provider with USD 0 member cost sharing. Prior authorization is not required for this checkup. Additional problem-focused services during the same appointment may be billed under a different benefit. Primary care visits In-network primary care office visits have a USD 20 copayment per visit. Prior authorization is not required. This document does not specify a numerical annual visit limit for primary care; do not invent one. Specialist office visits In-network specialist consultations require a referral and have a USD 40 copayment per visit. The consultation itself does not require prior authorization. Procedures ordered by a specialist can have separate authorization requirements. Laboratory testing Routine diagnostic blood tests ordered by an in-network clinician are covered with a USD 10 copayment per laboratory encounter. Prior authorization is not required. Direct-to-consumer wellness panels ordered without a clinician are excluded. MRI imaging Medically necessary in-network outpatient MRI imaging requires prior authorization and has a USD 100 copayment per scan. A specialist consultation",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 4,
+      "document_version": "1.0",
+      "section": "PDF page 4"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-4-chunk-2",
+    "text": "copayment per laboratory encounter. Prior authorization is not required. Direct-to-consumer wellness panels ordered without a clinician are excluded. MRI imaging Medically necessary in-network outpatient MRI imaging requires prior authorization and has a USD 100 copayment per scan. A specialist consultation referral does not serve as MRI authorization. Other imaging modalities are not specified in this document.",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 4,
+      "document_version": "1.0",
+      "section": "PDF page 4"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-5-chunk-1",
+    "text": "Exclusions, limits, and missing information Routine dental services Routine dental examinations, teeth cleaning, fillings, and orthodontics are excluded under DEMO-PLAN-001. The preventive health checkup benefit does not include dental checkups. This exclusion does not describe medical treatment of a jaw injury; that situation is not specified here. Cosmetic services Elective cosmetic procedures performed solely to change appearance are excluded. Reconstructive surgery following injury is not defined in this document and requires separate benefit verification. Services not specified This document does not specify benefits for hearing aids, prescription drugs, maternity care, inpatient admission, occupational therapy, or speech therapy. Absence of a benefit description does not establish coverage or exclusion. Request the relevant benefit schedule or contact the demo administrator. Do not combine unrelated benefit rules The physiotherapy visit limit applies only to physiotherapy. The USD 0 preventive checkup cost sharing applies only to the annual preventive checkup. Neither rule may be transferred to dental care, MRI imaging, or any other service. Plan rules versus individual records This PDF does not contain individual claim statuses, claim IDs, payment dates, member profiles, provider",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 5,
+      "document_version": "1.0",
+      "section": "PDF page 5"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-5-chunk-2",
+    "text": "only to the annual preventive checkup. Neither rule may be transferred to dental care, MRI imaging, or any other service. Plan rules versus individual records This PDF does not contain individual claim statuses, claim IDs, payment dates, member profiles, provider availability, or remaining annual limits. Those questions require a separate authorized record lookup.",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 5,
+      "document_version": "1.0",
+      "section": "PDF page 5"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-6-chunk-1",
+    "text": "Authorization and claims procedures Requesting prior authorization For services that require prior authorization, the in-network provider submits the proposed service, diagnosis, requested dates, and supporting clinical documentation before treatment. A routine demo request is reviewed within five business days after all required documentation is received. An incomplete request has no review completion date until the missing documents arrive. Authorization is not a payment guarantee Authorization confirms review of the proposed service. Payment still depends on active enrollment on the service date, available benefit limits, provider network status, accurate coding, and other applicable plan rules. Approval must not be described as proof that a claim has been paid. Submitting a claim For this synthetic plan, submit a claim within 90 calendar days after the service date. Required documents are an itemized bill, service date, provider identifier, synthetic member identifier, and any required authorization reference. Do not submit real personal or clinical data to this demo application. Claim status meanings Pending: review is incomplete or supporting documents are missing. Approved: the claim has passed adjudication; this does not itself establish payment. Denied:",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 6,
+      "document_version": "1.0",
+      "section": "PDF page 6"
+    }
+  },
+  {
+    "id": "demo-plan-001-pdf-v1-page-6-chunk-2",
+    "text": "required authorization reference. Do not submit real personal or clinical data to this demo application. Claim status meanings Pending: review is incomplete or supporting documents are missing. Approved: the claim has passed adjudication; this does not itself establish payment. Denied: the claim was not approved; the reason must come from the claim record. Paid: payment is recorded in the payment system. Appeal procedure for testing A synthetic claim appeal may be submitted within 30 calendar days after the denial notice date, including the claim reference, disputed reason, and supporting documents. This is an invented administrative rule for testing, not a statement of legal rights or real insurance requirements.",
+    "metadata": {
+      "plan_id": "DEMO-PLAN-001",
+      "source": "Demo_Healthcare_Benefits_Plan.pdf",
+      "page": 6,
+      "document_version": "1.0",
+      "section": "PDF page 6"
+    }
+  }
+]

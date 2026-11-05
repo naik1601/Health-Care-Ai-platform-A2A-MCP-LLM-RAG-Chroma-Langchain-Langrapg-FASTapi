@@ -20,10 +20,10 @@ async def generate_answer(question: str, matches: list[dict]) -> str:
             "text": match["text"],
             "source": match["source"],
             "section": match["section"],
+            "page": match.get("page"),
         }
         for index, match in enumerate(matches, start=1)
     ]
-
     async with AsyncOpenAI(
         timeout=30.0,
         max_retries=1,
@@ -62,7 +62,14 @@ async def generate_answer(question: str, matches: list[dict]) -> str:
         return "An answer could not be generated. Please try again."
 
     sources = "\n".join(
-        f"{item['citation']} {item['source']} — {item['section']}"
+        (
+            f"{item['citation']} {item['source']}"
+            + (
+                f" — page {item['page']}"
+                if item["page"] is not None
+                else f" — {item['section']}"
+            )
+        )
         for item in evidence
     )
 

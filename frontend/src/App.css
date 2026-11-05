@@ -1,0 +1,161 @@
+.app {
+  max-width: 880px;
+  margin: 0 auto;
+  padding: 48px 24px;
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.brand-icon {
+  display: grid;
+  place-items: center;
+  width: 52px;
+  height: 52px;
+  border-radius: 16px;
+  background: #126b5e;
+  color: white;
+  font-size: 36px;
+}
+
+.eyebrow {
+  margin: 0 0 6px;
+  color: #47736b;
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 2px;
+}
+
+h1 {
+  margin: 0;
+  font-size: clamp(24px, 5vw, 34px);
+}
+
+.intro {
+  margin: 24px 0;
+  color: #526c67;
+  line-height: 1.6;
+}
+
+.demo-banner {
+  padding: 12px 16px;
+  border-radius: 10px;
+  background: #e1eeea;
+  color: #315d53;
+  font-size: 13px;
+  line-height: 1.5;
+}
+
+.conversation {
+  min-height: 340px;
+  margin: 24px 0;
+}
+
+.welcome {
+  padding: 64px 20px;
+  text-align: center;
+}
+
+.welcome h2 {
+  font-size: 22px;
+}
+
+.welcome p {
+  color: #627974;
+  line-height: 1.6;
+}
+
+.message {
+  margin: 16px 0;
+  padding: 20px;
+  border: 1px solid #dce7e3;
+  border-radius: 16px;
+  background: white;
+}
+
+.message.user {
+  margin-left: 48px;
+  background: #e4f1ec;
+  border-color: #cfe3db;
+}
+
+.message strong {
+  font-size: 13px;
+  color: #126b5e;
+}
+
+.message p {
+  margin-bottom: 0;
+  white-space: pre-wrap;
+  overflow-wrap: anywhere;
+  line-height: 1.7;
+}
+
+.loading {
+  padding: 12px;
+  color: #526c67;
+}
+
+.composer {
+  padding: 20px;
+  border: 1px solid #dce7e3;
+  border-radius: 16px;
+  background: white;
+}
+
+.composer label {
+  display: block;
+  margin-bottom: 10px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.input-row {
+  display: flex;
+  gap: 12px;
+}
+
+input {
+  flex: 1;
+  min-width: 0;
+  padding: 14px;
+  border: 1px solid #c9d9d3;
+  border-radius: 10px;
+  background: #fafcfb;
+}
+
+button {
+  padding: 14px 24px;
+  border: 0;
+  border-radius: 10px;
+  background: #126b5e;
+  color: white;
+  cursor: pointer;
+}
+
+button:disabled {
+  opacity: 0.55;
+  cursor: not-allowed;
+}
+
+.error {
+  color: #a02626;
+  line-height: 1.5;
+}
+
+@media (max-width: 520px) {
+  .app {
+    padding: 28px 16px;
+  }
+
+  .input-row {
+    flex-direction: column;
+  }
+
+  .message.user {
+    margin-left: 20px;
+  }
+}

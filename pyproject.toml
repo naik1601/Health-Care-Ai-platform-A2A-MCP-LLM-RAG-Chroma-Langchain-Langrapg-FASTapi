@@ -9,8 +9,10 @@ dependencies = [
     "chromadb>=1.5.9",
     "fastapi>=0.162.0",
     "httpx>=0.28.1",
+    "langgraph>=1.2.19",
     "mcp[cli]>=2,<3",
     "openai>=3.42.1",
+    "pypdf>=6.21.4",
     "pywin32>=312 ; sys_platform == 'win32'",
     "uvicorn>=0.54.0",
 ]
